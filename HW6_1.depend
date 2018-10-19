@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1539901428 source:c:\users\allie\onedrive\desktop\hw6_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	"MyGrade3.h"
+
+1539902452 c:\users\allie\onedrive\desktop\hw6_1\mygrade3.h
+
